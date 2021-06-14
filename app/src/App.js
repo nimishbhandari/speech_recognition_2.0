@@ -1,7 +1,7 @@
 import React from "react";
-import Record from "./Record";
+// import Record from "./Record";
 import ScreenRecord from "./ScreenRecord";
-import Speech from "./Speech";
+// import Speech from "./Speech";
 
 const App = () => {
   return (
