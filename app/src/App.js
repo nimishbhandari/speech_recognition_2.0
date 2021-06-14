@@ -1,13 +1,15 @@
 import React from "react";
 import Record from "./Record";
+import ScreenRecord from "./ScreenRecord";
 import Speech from "./Speech";
 
 const App = () => {
   return (
     <div>
       <h1>Speech recognition</h1>
-      <Speech />
-      <Record />
+      {/* <Speech /> */}
+      {/* <Record /> */}
+      <ScreenRecord />
     </div>
   );
 };
